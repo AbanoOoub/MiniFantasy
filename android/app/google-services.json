@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285915964477",
+    "project_id": "minifantasy-7d535",
+    "storage_bucket": "minifantasy-7d535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285915964477:android:8851a550e24e671946b654",
+        "android_client_info": {
+          "package_name": "com.example.minifantasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285915964477-1eph2c9jb09nadjid6s7c8usfvnbstdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvHrrHPl3IKl__3o-0UbFzwOd41RjOEZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285915964477-1eph2c9jb09nadjid6s7c8usfvnbstdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
